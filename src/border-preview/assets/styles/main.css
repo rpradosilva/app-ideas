@@ -1,0 +1,28 @@
+@import url("https://meyerweb.com/eric/tools/css/reset/reset.css");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+:root {
+  --surface: black;
+  --stroke-color: rgba(255, 255, 255, 0.03);
+  --text-color: white;
+  --text-md: 500 16px/24px Inter, sans-serif;
+  --text-sm: 500 14px/24px Inter, sans-serif;
+}
+
+body {
+  background-color: var(--surface);
+  color: var(--text-color);
+  display: flex;
+  font: var(--text-sm);
+  height: 100vh;
+  width: 100vw;
+}
+
+main {
+  background: var(--stroke-color);
+  border-radius: 16px;
+  margin: 10%;
+  padding: 32px;
+  width: 100%;
+  filter: drop-shadow(5px 5px 19px var(--surface));
+}
