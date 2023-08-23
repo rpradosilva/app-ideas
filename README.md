@@ -4,13 +4,9 @@ The project is a repo to testing my code skills based on app-ideas from [florinp
 
 ## Projects
 
-<div style="width: 100%">
-
 |  Status  | Difficult | Description |             Result              |
 | :------: | :-------: | :---------- | :-----------------------------: |
 | :clock3: | Beginner  | Objects     | [:card_index_dividers:](src/xx) |
-
-</div>
 
 <!-- :clock3: -->
 <!-- :white_check_mark: -->
